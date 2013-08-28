@@ -1,5 +1,5 @@
-tictactoe
-=========
+Platformer SDL2
+===============
 
 SDL2 based Platformer game example.
 
